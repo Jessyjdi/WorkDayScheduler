@@ -51,4 +51,4 @@ Please refer to the license in the repo.
 
 ## Link to Live project
 
-https://jessyjdi.github.io/
+https://jessyjdi.github.io/WorkDayScheduler/
